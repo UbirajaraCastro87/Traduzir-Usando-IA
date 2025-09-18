@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fluent_IA</title>
+    <title>IA</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="shortcut icon" href="./src/views/asset/favicon.ico" type="image/x-icon" />
   </head>
