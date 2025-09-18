@@ -13,7 +13,7 @@
     <div
       class="text-center grid item-center justify-items-center bg-white rounded-xl p-8"
     >
-      <img class="mb-4" src="./src/views/asset/logo.png" alt="Logo Fluent IA" />
+      <img class="mb-4" src="./src/views/asset/logo.png" alt="IA" />
 
       <div class="flex items-center gap-4">
         <a
